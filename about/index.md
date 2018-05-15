@@ -6,7 +6,7 @@ published: true
 ---
 
 Este proyecto sobre la educación del ciclo del carbono está lidereado por:
-Profesora Galen A. McKinley 
+Profesora [Galen A. McKinley](http://mckinley.ldeo.columbia.edu/)
 Columbia University 
 Department of Earth and Environmental Sciences 
 and
