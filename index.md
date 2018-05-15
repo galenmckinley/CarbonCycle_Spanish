@@ -187,7 +187,7 @@ El flujo de carbono hacia el mar se incrementa conforme las actividades humanas 
 Resulta claro que el sumidero de carbono oceánico presenta gran variabilidad tanto en espacio como en tiempo. Por ejemplo, muchas líneas de evidencia muestran que el sumidero de carbono oceánico a escala global se debilitó en la década de los 90, y se fortaleció en la década del 2000.  [Fay y McKinley, 2013; DeVries et al. 2017; Landschutzer et al. 2015; Ritter et al. 2017]. Aún cuando es claro que la circulación oceánica es la principal responsable de este cambio, la comprensión detallada de estos procesos se ve limitada por la escasez de observaciones oceánicas [Peters et al, 2017].</p>
 
 <p>
-En los Estados Unidos, el programa Ocean Carbon and Biogeochemistry (OCB https://www.us-ocb.org/) coordina los esfuerzos de investigación y educación sobre la toma de carbono por los océanos. Puedes ver <a href="https://www.us-ocb.org/new-ocb-short-film/">un vídeo corto </a> que resume el trabajo de esta organización. El proyecto International Carbon Coordinating Project <a href="http://www.ioccp.org/">(IOCCP) es le encargado de coordinar esfuerzos a nivel internacional. </a></p>
+En los Estados Unidos, el programa Ocean Carbon and Biogeochemistry (<a href="https://www.us-ocb.org/"> OCB </a>) coordina los esfuerzos de investigación y educación sobre la toma de carbono por los océanos. Puedes ver <a href="https://www.us-ocb.org/new-ocb-short-film/">un vídeo corto </a> que resume el trabajo de esta organización. El proyecto International Carbon Coordinating Project (<a href="http://www.ioccp.org/"> IOCCP </a>) es le encargado de coordinar esfuerzos a nivel internacional. </a></p>
 
 
 <h3> El “otro problema con el CO2 ” = Acidificación marina </h3>
