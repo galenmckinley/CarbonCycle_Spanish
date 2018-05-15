@@ -13,7 +13,8 @@ published: true
 Estipula las fuentes y sumideros del CO2 al deslizar los puntos verdes en la gráfica de la izquierda.
 
 <br>
-Oprime Corre Proyección para obtener el impacto en CO2 atmosférico (gráfica a la derecha) y los flujos relativos (gráfica de abajo)
+Oprime Corre Proyección para obtener el impacto en CO2 atmosférico (gráfica a la derecha) y los flujos relativos (gráfica de abajo).
+The applet is in Flash and may not work on all browsers (try Chrome) and/or will require changes to security settings.
 
 </p>
 
