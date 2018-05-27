@@ -10,7 +10,8 @@ published: true
 
 - [El Ciclo Global de Carbono. Por el Woods Hole Oceanographic Institution](http://www.whoi.edu/feature/carboncycle/)
 - [Carbon Connections- el Ciclo del Carbono y el Cambio Climático](http://carbonconnections.bscs.org/) – curriculuma para estudiantes de  9-12 años
-- [Observatorio terrestre de la NASA](http://earthobservatory.nasa.gov/Features/CarbonCycle/) (Carbon Cycle Background)
+- [Observatorio terrestre de la NASA](http://earthobservatory.nasa.gov/Features/CarbonCycle/) 
+- [Global Carbon Atlas](http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas) (Datos ciclo del carbono)
 
 ## Recursos sobre el clima y el cambio climático
 
