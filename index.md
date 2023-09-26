@@ -56,7 +56,7 @@ published: true
 <h3> La humanidad agrega  CO2 a la atmósfera, la naturaleza elimina cerca de la mitad </h3>
 
 <ul>
-<li> De 2007 a 2016, la humanidad agregó a la atmósfera en promedio 9.4×1015 gramos de carbono (1015 gramos de  carbono  = 1 PgC) cada año, debido, principalmente, al consumo de combustibles fósiles (9.4 PgC/yr) y all cambio en el uso del suelo (1.3 PgC/yr). Los oceanos absorbieron el 22% de este carbono, y los sistemas terrestres el 28%. Un 6% de las emisiones representan sumideros que no han sido identificados (LeQuere et al. 2017). En la atmósfera tan sólo quedó el 50% de las emisiones humanas. Este 50% es el que contribuye al cambio climático.
+<li> De 2012 a 2021, la humanidad agregó a la atmósfera en promedio 10.8 petagram de carbono (1 petagram carbon = 1 PgC = 10^15) cada año, debido, principalmente, al consumo de combustibles fósiles (9.6 PgC/yr) y all cambio en el uso del suelo (1.2 PgC/yr). Los oceanos absorbieron el 27% de este carbono, y los sistemas terrestres el 29%. Un 3% de las emisiones representan sumideros que no han sido identificados (Friedlingstein et al. 2022). En la atmósfera tan sólo quedó el 45% de las emisiones humanas. Este 45% es el que contribuye al cambio climático.
 </li>
 
 <li>  Existen procesos naturales que reducen el ritmo de acumulación de carbono en la atmósfera.
@@ -80,7 +80,7 @@ published: true
 
 <h3> Lo Básico </h3>
 
-<p> El carbono se transfiere entre el  CO2 y los organismos vivos y muertos mediante el proceso básico de fotosíntesis / respiración (mostrado aquí en forma simplificada). </p>
+<p> El carbono se transfiere entre el CO2 y los organismos vivos y muertos mediante el proceso básico de fotosíntesis / respiración (mostrado aquí en forma simplificada). </p>
 
 <div style = "text-align:center">
 <p> CO2+H2O+energy <=> CH2O + O2 </p>
@@ -91,14 +91,14 @@ published: true
 
 <h3> El ciclo global del carbono</h3>
 
-<p> El ciclo del carbono es un sistema complejo que involucra procesos geológicos, químicos y físicos. Aquí se muestra un esquema del reporte IPCC AR4. El esquema muestra los reservorios de carbono en las unidades de giga toneladas, GtC (1 GtC = 1 PgC: Petagramos de carbón) y los mayores flujos en GtC/yr. Los números que se muestran representan las mejores estimaciones para la década de los años 1990’s. </p>
+<p> El ciclo del carbono es un sistema complejo que involucra procesos geológicos, químicos y físicos. Aquí se muestra un esquema del reporte 2022 Global Carbon Budget (Friedlingstein et al. 2022). El esquema muestra los reservorios de carbono en las unidades de giga toneladas, GtC (1 GtC = 1 PgC: Petagramos de carbón) y los mayores flujos en GtC/yr. Los números que se muestran representan las mejores estimaciones para la década de 2012-2021. </p>
 
-<p> Las estimaciones de estos flujos son actualizadas anualmente por el proyecto <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project</a> (LeQuere et al. 2017), mientras que la ciencia sobre el ciclo del carbono es revisada en cada reporte del IPCC (Ciais et. al 2013). </p>
+<p> Las estimaciones de estos flujos son actualizadas anualmente por el proyecto <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project</a> (Friedlingstein et al. 2022), mientras que la ciencia sobre el ciclo del carbono es revisada en cada reporte del IPCC (Canadell, Monteiro et. al 2021). </p>
 
 
-<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/figure-7-3-l.png" /> </div> 
+<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/GCBFig2_2022.png" style="width:750px;height:452px;" /> </div> 
 
-<p style="font-size:60%;"> <i> IPCC AR4 (2007) Fig 7.3. El ciclo global del carbón para los años 1990s, en el que se muestran los principales flujos anuales en GtC yr –1 : los flujos ‘naturales’ preindustriales se muestran en negro y los flujos ‘antropogénicos’ en rojo (modificados de Sarmiento y Gruber, 2002, con cambios en el tamaño de pool a partir de Sabine et al., 2004a). La pérdida neta terrestre de –39 GtC se infiere al sustraer las acumulaciones en la atmósfera y los océanos de la acumulación de emisiones de combustibles fósiles. La pérdida de -140 GtC de la componente ‘vegetation, soil and detritus’ representa emission acumulada por el cambio de uso de suelo (Houghton, 2003), y requiere un sumidero de la biosfera de 101 GtC (en Sabine et al., dados como rangos entre -140 a -80 GtC y 61 a 141 GtC, respectivamente; otras incertidumbres se dan en la tabla 1). La columna 5 ‘AR4’ de la tabla 7.1 muestra los cambios antropológicos netos con la atmósfera. Los flujos brutos generalmente tienen una incertidumbre de más de ±20%, pero se han manejado cantidades fragmentadas para lograr un balance al incluir estimaciones en fracciones de GtC yr–1 por transporte en ríos, intemperización, enterramiento en océano profundo, etc. ‘GPP’ significa producción primaria anual bruta (terrestre). El contenido de carbono en la atmósfera y todos los flujos acumulativos desde 1750 son hasta finales de 1994. </i> </p>
+<p style="font-size:60%;"> <i> El ciclo global del carbón para 2012-2021, en el que se muestran los principales flujos anuales en GtC/yr (Friedlingstein et al. 2022). </i> </p>
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
 
@@ -114,13 +114,13 @@ published: true
 
 </p>
  
-<div style="text-align:center"> <img src = "{{site.baseurl}}/images/co2_data_mlo.png" /> </div> 
+<div style="text-align:center"> <img src = "{{site.baseurl}}/images/co2_data_mlo_5sept2023_NOAAESRL.pdf" /> </div> 
 
 <p>
 
   Estos datos forman parte ahora de una red global de monitoreo de CO2 atmosférico. Todos estos registros muestran la misma tendencia al alza de la concentración de dióxido de carbono. Usted puede encontrar estos registros de datos y más información en: <a href= "http://www.esrl.noaa.gov/gmd/ccgg/trends/" > NOAA </a>   
 
-  Ver <a href= "https://www.youtube.com/watch?v=gH6fQh9eAQE"> aqui un video </a> de los datos de NOAA y la historia de CO2 de un millón de ano.
+  Ver <a href= "https://www.youtube.com/watch?v=I7jKxO4nKZc"> aqui un video </a> de los datos de NOAA y la historia de CO2 de un millón de ano.
 
 </p>
 
