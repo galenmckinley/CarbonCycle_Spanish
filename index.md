@@ -39,7 +39,7 @@ published: true
 </ul>
 
 
-<h3> ¿Cómo están conectados el ciclo global de carbono y el cambio climático/calentamiento global? </h3>
+<h3> ¿Cómo están conectados el ciclo global de carbono y el cambio climático? </h3>
 
 <ul>
 
@@ -138,18 +138,15 @@ published: true
 
 <h3> The Basics </h3> 
 
-<p> La quema de combustibles fósiles arroja carbono a la atmósfera. Otras fuentes menores incluyen procesos industriales tales como la manufactura de cemento y la quema de gas natural en las industria petrolera y petroquímica. La mayor parte de las emisiones de carbono a la atmósfera proviene de la energía usada en el transporte humano, producción eléctrica, calefacción y el enfriamiento de edificios, y la la actividad industrial. El petróleo solía ser el combustible fósil de mayor uso, pero actualmente en 2016, el carbón mineral es el combustible dominante (40% el carbón mineral y 34% el petróleo), mientras que el uso de gas natural ha ido aumentando (19% en el 2016). </p>
+<p> La quema de combustibles fósiles arroja carbono a la atmósfera. Otras fuentes menores incluyen procesos industriales tales como la manufactura de cemento y la quema de gas natural en las industria petrolera y petroquímica. La mayor parte de las emisiones de carbono a la atmósfera proviene de la energía usada en el transporte humano, producción eléctrica, calefacción y el enfriamiento de edificios, y la la actividad industrial. El petróleo solía ser el combustible fósil de mayor uso, pero actualmente en 2021, el carbón mineral es el combustible dominante (41% el carbón mineral y 32% el petróleo), mientras que el uso de gas natural ha ido aumentando (22%). </p>
 
 <p>
-En los años noventa, el uso de combustibles fósiles emitió 6.4 Petagramos de carbono (PgC) al año, y en el periodo entre 2007-2016, aumentó a 9.4 PgC/año. Entre los años 2000-2009, la emisión aumentó un 3.3% cada año, sustancialmente más rápido que el crecimiento del 1.0 % al año de los años noventa. Este cambio dramático se debe principalmente al aumento en el uso de combustibles fósiles por parte de países en desarrollo. La razón de crecimiento de las emisiones de carbono disminuyó sustancialmente entre el 2012 y 2016. Sin embargo, las dichas emisiones volvieron a crecer entre 2007 y 2016 hasta ajustarse a las proyecciones de reportadas en el IPCC AR5 (RCP8.5).  
-
+En los años noventa, el uso de combustibles fósiles emitió 6.4 Petagramos de carbono (PgC) al año, y en el periodo entre 2012-2021, aumentó a 9.6 PgC/año. Entre los años 2000-2009, la emisión aumentó un 2.4% cada año, sustancialmente más rápido que el crecimiento del 1.0% al año de los años noventa. Este cambio dramático se debe principalmente al aumento en el uso de combustibles fósiles por parte de países en desarrollo. La producción de exportaciones contribuye al este aumento de emisiones. La razón de crecimiento de las emisiones de carbono disminuyó a 1.6% entre el 2010 y 2019. 
 </p>
 
-<p>
-Las evidencias indican que el rápido aumento en las emisiones por parte de países en desarrollo, como China, se debe al crecimiento en el comercio internacional, así como al cambio en los países desarrollados hacia una economía de servicios. La producción de exportaciones en los países desarrollados también contribuye al aumento de emisiones. </p>
 
 <p> 
-Puedes encontrar información sobre las emisiones de carbono por parte de los diferentes países en los datos que el <a href="http://www.globalcarbonproject.org/carbonbudget/index.htm">Global Carbon Project (GCP)</a> aporta cada año. Puedes visitar las visualizaciones disponibles en el <a href="http://www.globalcarbonatlas.org/en/content/welcome-carbon-atlas">Atlas del GCP’s Global Carbon</a>. </p>
+Puedes encontrar información sobre las emisiones de carbono por parte de los diferentes países en los datos que el <a href="http://www.globalcarbonproject.org/carbonbudget/index.htm">Global Carbon Project (GCP)</a> aporta cada año. </p>
 
 <h3> El futuro de los combustibles fósiles </h3>
 
@@ -167,17 +164,24 @@ Puedes encontrar información sobre las emisiones de carbono por parte de los di
 
 <h3> Lo básico </h3>
 
-<p> El CO2 se disuelve en el océano y reacciona con el agua para formar varios iones (átomos o moléculas con carga eléctrica). Esta disociación permite al océano almacenar grandes cantidades de carbono – 85% del reservorio activo en la Tierra. El agua fría puede diluir más CO2 que el agua caliente, así que las aguas que se están enfriando (i.e. aguas que se mueven hacia los polos en las corrientes de frontera oeste) tienden a tomar carbono atmosférico, mientras que las aguas que surgen hacia la superficie desde zonas profundas, y las que se están calentando (i.e. zonas costeras y tropicales) tienden a liberar carbono. Esta es la razón básica del patrón global de los flujos entre el mar y la atmósfera de CO2 estimados por Takahashi et al. [2009] en la figura. </p>
+<p> El CO2 se disuelve en el océano y reacciona con el agua para formar varios iones (átomos o moléculas con carga eléctrica). Esta disociación permite al océano almacenar grandes cantidades de carbono – 85% del reservorio activo en la Tierra. El agua fría puede diluir más CO2 que el agua caliente, así que las aguas que se están enfriando (i.e. aguas que se mueven hacia los polos en las corrientes de frontera oeste) tienden a tomar carbono atmosférico, mientras que las aguas que surgen hacia la superficie desde zonas profundas, y las que se están calentando (i.e. zonas costeras y tropicales) tienden a liberar carbono. </p>
 
-<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/takahashi_co2_flux.png" /> </div> 
+<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/CO2flux_ocean_20102019_M2023_fig2a.jpg" style="width:750px;height:452px;" /> </div> 
 
-<p style="font-size:60%;"> <i> Annual mean air-sea CO2 flux, estimated by Takahashi et al. 2009. Positive is from ocean to atmosphere, negative from atmosphere to ocean. </i> </p>
-
-<p>
-El océano alberga una enorme comunidad de organismos que realizan la fotosíntesis ante la presencia de energía solar y de nutrientes, transformando el CO2 en materia orgánica. Aún cuando gran parte del CO2 removido biológicamente del agua marina es reconvertido en CO2 rápidamente por la cadena trófica en la superficie, una pequeña porción (< 1%) del material de deshecho se hunde a grandes profundidades enriqueciendo el abismo con carbono. Este proceso mueve el carbono de la superficie hacia grandes profundidades y almacena el carbono lejos de la atmósfera. </p> 
+<p style="font-size:75%; text-align:center"> <i> Annual mean air-sea CO2 flux, 2010-2019, based on observations (McKinley et al. 2023). Positive is from ocean to atmosphere, negative from atmosphere to ocean. </i> </p>
 
 <p>
-El flujo de carbono hacia el mar se incrementa conforme las actividades humanas aumentan la concentración de carbono en la atmósfera. Si no fuera por los océanos, la concentración atmosférica de CO2 sería 80ppm más elevada que la concentración actual (155 PgC, Ciais et al. 2013, Khatiwala et al. 2009, 2013). Los océanos han absorbido el 41% de todo el carbono que se ha emitido a la atmósfer debido al consumo de combustibles fósiles (375PgC) (McKinley, et al. 2017). Debido a que los océanos tardan cerca de 1000 años en mezclarse, la mayor parte del carbono absorbido por el océano se encuentra cerca de la superficie, dentro el primer kilómetro del océano. Puede encotrar animaciones sobre del sumidero oceánico de carbono en la página del <a href="http://darchive.mblwhoilibrary.org/handle/1912/7670.1"> Ocean Carbon and Biogeochemistry Program. </a> </p>
+El océano alberga una enorme comunidad de organismos que realizan la fotosíntesis ante la presencia de energía solar y de nutrientes, transformando el CO2 en materia orgánica. Aún cuando gran parte del CO2 removido biológicamente del agua marina es reconvertido en CO2 rápidamente por la cadena trófica en la superficie, una pequeña porción (< 1%) del material de deshecho se hunde a grandes profundidades enriqueciendo el abismo con carbono (panel izquirda inferior). Este proceso mueve el carbono de la superficie hacia grandes profundidades y almacena el carbono lejos de la atmósfera. </p> 
+
+<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/CRE02558_McKinleyReiner_OCB2020.png" style="width:750px;height:452px;" /> </div> 
+
+<p style="font-size:75%; text-align:center"> <i> The ocean carbon cycle, surface to depth. On the left is the natural carbon cycle that includes biological production, ocean circulation and air-sea exchange. On the right is the anthropogenic carbon cycle that includes invasion of carbon into the surface ocean due to the growing atmospheric pCO2 (inset on top right), and the ocean circulation that mixes anthropogenic carbon to depth. The total carbon cycle,  is the sum of the natural and anthropogenic cycles. At center are the observed global-mean profiles of natural, anthropogenic and total carbon in the ocean. The air-sea flux presented in the global map above is for the total carbon cycle. Figure by Galen McKinley and Natalie Renier, with support from the OCB program. </i> </p>
+
+<p>
+El flujo de carbono hacia el mar se incrementa conforme las actividades humanas aumentan la concentración de carbono en la atmósfera (panel derecha arriba).  El processos fiscos que gobierna este flujo es <a href="https://en.wikipedia.org/wiki/Henry%27s_law"> La ley de Henry </a>.  Debido a que los océanos tardan cerca de 1000 años en mezclarse, la mayor parte del carbono absorbido por el océano se encuentra cerca de la superficie, dentro el primer kilómetro del océano.  </p>
+
+<p>
+Si no fuera por los océanos, la concentración atmosférica de CO2 sería 90ppm más elevada que la concentración actual (175 PgC). Los océanos han absorbido el 37% de todo el carbono que se ha emitido a la atmósfer debido al consumo de combustibles fósiles (465 PgC). Puede encotrar animaciones sobre los cambios en el tiempo del balance entre las fuentes y sumideros de carbono por el tiempo <a href="http://darchive.mblwhoilibrary.org/handle/1912/7670.1"> Ocean Carbon and Biogeochemistry Program. </a> </p>
 
 <h3> El futuro de la absorción oceánica del carbono </h3>
 
