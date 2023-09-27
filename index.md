@@ -98,7 +98,7 @@ published: true
 
 <div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/GCBFig2_2022.png" style="width:750px;height:452px;" /> </div> 
 
-<p style="font-size:60%;"> <i> El ciclo global del carbón para 2012-2021, en el que se muestran los principales flujos anuales en GtC/yr (Friedlingstein et al. 2022). </i> </p>
+<p style="font-size:75%;"> <i> El ciclo global del carbón para 2012-2021, en el que se muestran los principales flujos anuales en GtC/yr (Friedlingstein et al. 2022). </i> </p>
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
 
