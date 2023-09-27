@@ -59,10 +59,7 @@ published: true
 <li> De 2012 a 2021, la humanidad agregó a la atmósfera en promedio 10.8 petagram de carbono (1 petagram carbon = 1 PgC = 10^15) cada año, debido, principalmente, al consumo de combustibles fósiles (9.6 PgC/yr) y all cambio en el uso del suelo (1.2 PgC/yr). Los oceanos absorbieron el 27% de este carbono, y los sistemas terrestres el 29%. Un 3% de las emisiones representan sumideros que no han sido identificados (Friedlingstein et al. 2022). En la atmósfera tan sólo quedó el 45% de las emisiones humanas. Este 45% es el que contribuye al cambio climático.
 </li>
 
-<li>  Existen procesos naturales que reducen el ritmo de acumulación de carbono en la atmósfera.
-</li>
-
-<li> El calentamiento global futuro dependerá de las fuentes de CO2 por las emisiones humanas, así como de los sumideros naturales de carbono en ococeanos y la biosfera terrestre.
+<li> El calentamiento global futuro dependerá de las fuentes de CO2 por las emisiones humanas, así como de los sumideros naturales de carbono en ococeanos y la biosfera terrestre (Crisp et al. 2022).
 </li>
 
 </ul>  
@@ -185,20 +182,23 @@ Si no fuera por los océanos, la concentración atmosférica de CO2 sería 90ppm
 
 <h3> El futuro de la absorción oceánica del carbono </h3>
 
-<p> Los científicos pronostican que los océanos eventualmente absorberán cerca del 85% del CO2 antropogénico (emitido por actividades humanas), pero como le toma al océano alrededor de 1000 años para mezclarse completamente, este proceso de asimilación del CO2 le tomará entre cientos y miles de años. Se espera que hasta el 2100 aumente la tabsroción del carbono por parte del mar porque el aumento de CO2 en la atmósfera acelerará el proceso de disolución del carbono en el mar. Sin embargo, debido a los procesos químicos tan especiales del carbono en agua marina, la habilidad del océano para absorber el carbono disminuye conforme aumenta la concentración del carbono. Procesos antropogénicos pueden llegar a frenar la circulación a gran escala del océano, lo que reduciría la eficiencia de la toma de carbono por parte del océano. Los modelos predictivos sugieren cambios significativos en escala regional en la remoción biológica de carbono hacia las profundidades del océano, pero un efecto neto pequeño en la toma de carbono a escala global. </p>
+<p> Los científicos pronostican que los océanos eventualmente absorberán cerca del 85% del CO2 antropogénico (emitido por actividades humanas), pero como le toma al océano alrededor de 1000 años para mezclarse completamente, este proceso de asimilación del CO2 le tomará entre cientos y miles de años. </p>
+
+<p> 
+Se espera que hasta el 2100 aumente la tabsroción del carbono por parte del mar porque el aumento de CO2 en la atmósfera acelerará el proceso de disolución del carbono en el mar. Sin embargo, debido a los procesos químicos tan especiales del carbono en agua marina, la habilidad del océano para absorber el carbono disminuye conforme aumenta la concentración del carbono. Procesos antropogénicos pueden llegar a frenar la circulación a gran escala del océano, lo que reduciría la eficiencia de la toma de carbono por parte del océano. Los modelos predictivos sugieren cambios significativos en escala regional en la remoción biológica de carbono hacia las profundidades del océano, pero un efecto neto pequeño en la toma de carbono a escala global. </p>
 
 <p> 
 Resulta claro que el sumidero de carbono oceánico presenta gran variabilidad tanto en espacio como en tiempo. Por ejemplo, muchas líneas de evidencia muestran que el sumidero de carbono oceánico a escala global se debilitó en la década de los 90, y se fortaleció en la década del 2000.  [Fay y McKinley, 2013; DeVries et al. 2017; Landschutzer et al. 2015; Ritter et al. 2017]. Aún cuando es claro que la circulación oceánica es la principal responsable de este cambio, la comprensión detallada de estos procesos se ve limitada por la escasez de observaciones oceánicas [Peters et al, 2017].</p>
 
 <p>
-En los Estados Unidos, el programa Ocean Carbon and Biogeochemistry (<a href="https://www.us-ocb.org/"> OCB </a>) coordina los esfuerzos de investigación y educación sobre la toma de carbono por los océanos. Puedes ver <a href="https://www.us-ocb.org/new-ocb-short-film/">un vídeo corto </a> que resume el trabajo de esta organización. El proyecto International Carbon Coordinating Project (<a href="http://www.ioccp.org/"> IOCCP </a>) es le encargado de coordinar esfuerzos a nivel internacional. </p>
+En los Estados Unidos, el programa <a href="https://www.us-ocb.org/">Ocean Carbon and Biogeochemistry</a> (OCB) coordina los esfuerzos de investigación y educación sobre la toma de carbono por los océanos. Puedes ver <a href="https://www.us-ocb.org/new-ocb-short-film/">un vídeo corto </a> que resume el trabajo de esta organización en la thema de carbono. El proyecto <a href="http://www.ioccp.org/"> International Ocean Carbon Coordinating Project </a> (IOCCP) es le encargado de coordinar esfuerzos a nivel internacional. </p>
 
 
 <h3> El “otro problema con el CO2 ” = Acidificación marina </h3>
 
 <p> Hay consecuencias adicionales debidas a la toma oceánica de carbono. El CO2 disuelto en el agua marina forma ácido carbónico, por lo que el océano se hace más ácido conforme añadimos más CO2 al mar. Desde los tiempos preindustriales hasta ahora el pH (unidad de medición de la acidez) se ha reducido en 0.1 pH, de 8.21 a 8.10. Es probable que disminuya otro 0.3 a 0.4 pH para el año 2100 suponiendo que el p CO2 es cercano al 800 ppmv para esas fechas. La acidificación dañará los arrecifes de coral, y probablemente afectará a especies importantes en la cadena trófica del océano, particularmente en el Mar de Sur. Los científicos están trabajando para entender mejor lo impactos en organismos y los efectos integrales en los ecosistemas marinos. Aquí hay un <a href="https://www.nrdc.org/stories/what-you-need-know-about-ocean-acidification"> video del National Resources Defense Council</a> sobre la acidificación marina. </p>
 
-<p> Aquí hay mas sobre la acidificación marina de <a href="http://oceanacidification.noaa.gov/Home.aspx">NOAA</a>, <a href="http://www.whoi.edu/main/topic/ocean-acidification"> Woods Hole Oceanographic Institution</a>, y <a href="https://www.nrdc.org/stories/what-you-need-know-about-ocean-acidification">National Resources Defense Council</a>. </p>
+<p> Aquí hay mas sobre la acidificación marina de <a href="https://oceanacidification.noaa.gov/">NOAA</a>, <a href="http://www.whoi.edu/main/topic/ocean-acidification"> Woods Hole Oceanographic Institution</a>, y <a href="https://www.nrdc.org/stories/what-you-need-know-about-ocean-acidification">Natural Resources Defense Council</a>. </p>
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
 
