@@ -214,7 +214,7 @@ En los Estados Unidos, el programa <a href="https://www.us-ocb.org/">Ocean Carbo
 <p> Las tierras nuevas de cultivo típicamente se obtienen clareando los bosques. Carbono es emitido a la atmósfera cuando los árboles se talan y se queman, o se abandonan a la descomposición. En el presente, la deforestación y la resultante emisión de carbono a la atmósfera está ocurriendo en las zonas tropicales. Sin embargo, en los últimos 200 años, la formación de zonas agrícolas mediante tala de bosques que ocurrió en las latitudes medias del Hemisferio Norte fue una fuente importante de carbono en la atmósfera. Desde mediados de los años noventa, gran parte de las tierras poco productivas de Estados Unidos y Europa se han reconvertido en bosques, compensando en parte las emisiones al tomar el carbono de las atmósfera y acumularlo en la madera y el suelo. </p>
 
 <p>
-La incertidumbre en las estimaciones del uso de suelo se debe en gran parte a que las estimaciones de la deforestación son, a su vez, inciertas, y también a que la cantidad de carbono almacenado en los bosques no está bien cuantificado. </p>
+La incertidumbre en las estimaciones del uso de suelo se debe en gran parte a que las estimaciones de la deforestación son, a su vez, inciertas, y también a que la cantidad de carbono almacenado en los bosques no está bien cuantificado (Crisp et al. 2022). </p>
 
 <h3> El futuro del Uso de la Tierra </h3>
 
@@ -239,7 +239,7 @@ La incertidumbre en las estimaciones del uso de suelo se debe en gran parte a qu
 <p> La biosfera terrestre toma y libera enormes cantidades de carbono cada año durante los periodos de crecimiento y de hibernación. El crecimiento conduce una acumulación del carbono en las hojas y tallos, las partes de madera, las raíces y en el suelo. El decaimiento de la materia muerta, principalmente sobre la tierra y dentro del suelo, regresa el carbono a la atmósfera. Este ciclo se puede apreciar en el registros de las observaciones de CO2 en la atmósfera en la sección “Atmósfera”. </p>
 
 <p>
-Existe una gran variabilidad de un año a otro en la magnitud de la toma de carbono por parte de la biosfera terrestre ya que la temporada de crecimiento de las plantas es muy variable.  El crecimiento de las planta es variable porque éstas son muy sensibles a cambios climáticos de periodo corto, así como a incendios, sequías e inundaciones. Esto se puede ver en el registro histórico que se muestra en naranja en <a href="{{ site.url }}/applet/">applet</a>. </p>
+Existe una gran variabilidad de un año a otro en la magnitud de la toma de carbono por parte de la biosfera terrestre ya que la temporada de crecimiento de las plantas es muy variable.  El crecimiento de las planta es variable porque éstas son muy sensibles a cambios climáticos de periodo corto, así como a incendios, sequías e inundaciones. Esto se puede ver en el registro histórico que se muestra en verde en <a href="{{ site.url }}/applet/">applet</a>. </p>
 
 <h3> ¿Por qué la biosfera terrestre absorbe CO2 atmosférico? </h3>
 
@@ -256,10 +256,10 @@ Aún así, existe una gran incertidumbre en la toma de carbono de forma natural 
 Ha sido demostrado que el “efecto de fertilización con CO2“, en el que el aumento en la concentración de CO2  produce en incremento en el crecimiento  plantas, es un efecto temporal que se satura después de unos años. Gran parte del rango en el applet se debe a ciertas suposiciones sobre este proceso. Se cuenta con menos información sobre la fertilización con nitrógeno y su posible rol en el futuro, y menos aún sobre las posibles sinergias entre los mecanismos. </p>
 
 <p>
-Además, la tierra puede convertirse en una fuente natural de carbono. Las sequías persistentes pueden ocasionar incendios forestales dramáticos y grandes pérdidas “naturales” de bosques tropicales. También hay gran cantidad de carbono orgánico almacenado en los suelos y en el permafrost (Capa de la corteza de la tierra que permanece bajo 0 °C todo el año) en latitudes altas. El calentamiento puede acelerar la actividad macrobiótica en el suelo así como derretir el permafrost, lo que generaría una liberación grande de CO2 al descomponerse la materia orgánica. El tamaño de estos reservorios y su sensibilidad al calentamiento son preguntas muy importantes que aún no tienen respuesta (Schuur et al. 2015). En el applet, la Absorción Terrestre del Carbono cruza por los valores reales debido a estos efectos. </p>
+Además, la tierra puede convertirse en una fuente natural de carbono. Las sequías persistentes pueden ocasionar incendios forestales dramáticos y grandes pérdidas “naturales” de bosques tropicales. También hay gran cantidad de carbono orgánico almacenado en los suelos y en el permafrost (Capa de la corteza de la tierra que permanece bajo 0 °C todo el año) en latitudes altas. El calentamiento puede acelerar la actividad macrobiótica en el suelo así como derretir el permafrost, lo que generaría una liberación grande de CO2 al descomponerse la materia orgánica. El tamaño de estos reservorios y su sensibilidad al calentamiento son preguntas muy importantes que aún no tienen respuesta. En el applet, la Absorción Terrestre del Carbono cruza por los valores reales debido a estos efectos. </p>
 
 <p>
-Es muy importante que logremos entender estos mecanismos de Absorción Terrestre del Carbono. Las predicciones se volverán más útiles a medida que mejore nuestro entendimiento de estos procesos. El programa <a href="www.nacarbon.org"> North American Carbon Program </a> en los Estados Unidos tiene como objetivo principal el mejorar nuestro entendimiento de estos procesos.</p>
+Es muy importante que logremos entender estos mecanismos de Absorción Terrestre del Carbono. El programa <a href="https://www.nacarbon.org/nacp/"> North American Carbon Program </a> en los Estados Unidos tiene como objetivo principal el mejorar nuestro entendimiento de estos procesos.</p>
 
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
