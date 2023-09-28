@@ -124,8 +124,10 @@ published: true
 <p>
 
 	Como se explica aquí, el CO2 se acumula en la atmósfera debido a ciertas actividades humanas, principalmente el uso de combustibles fósiles y la quema de bosques para crear zonas de cultivo. También presentamos información sobre los procesos naturales que ocurren en el mar y la tierra que modulan de forma significativa el aumento del CO2 en la atmósfera.
-
 </p>
+
+<h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
+
 <a name="FossilFuels"> </a>
 <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.fossilfuels }})">
       <div class="wrap page-lead-content">
