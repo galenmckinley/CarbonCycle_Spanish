@@ -20,7 +20,9 @@ New York, USA
 
 email: mckinley at ldeo.columbia.edu
 
-El applet fué desarrollado por la profesora McKinley en colaboración con Tommy Jasmin and Tom Whittaker de la University of Wisconsin-Madison. El diseño de la página web a cargo de Mirian Nielsen y Dierk Polzin, y Juan Botella tradujo el sitio al español.
+El applet fué desarrollado por la profesora McKinley en colaboración con Tommy Jasmin and Tom Whittaker de la University of Wisconsin-Madison; y desarrollado por Eric Malikowski en LDEO. 
+
+El diseño de la página web a cargo de Mirian Nielsen y Dierk Polzin, y Juan Botella tradujo el sitio al español.
 
 Agradecemos a la NASA por proveer los fondos para este proyecto.
 
