@@ -150,7 +150,13 @@ Desde el año 2000, las emisiones han aumentado rapidamente en los paises en des
 
 <h3> El futuro de los combustibles fósiles </h3>
 
-<p> El futuro del uso antropogénico de los combustibles fósiles dependerá de las decisiones humanas que se tomen a niveles local e internacional sobre el uso de la energía. Si decidimos en forma colectiva depender más en los combustibles fósiles, nuestras emisiones aumentarán. Si por el contrario, decidimos enfocarnos en la eficiencia del uso energético y en las fuentes renovables de energía, nuestras emisiones no aumentarán tan rápidamente e incluso podrían estabilizarse o reducirse. Estas son decisiones difíciles de tomar con posibles implicaciones dramáticas para la economía, la política, el medio ambiente y la sociedad en general desde escalas locales a escalas globales. Estas implicaciones son el foco de actividades de la Convención sobre el Cambio Climático de las Naciones Unidas (UNFCC por sus siglas en inglés)</a>, con resultados significativos como el Acuerdo de París del 2015. Las actividades actuales se enfocan en la implementación de este plan. </p>
+<p> El futuro del uso antropogénico de los combustibles fósiles dependerá de las decisiones humanas que se tomen a niveles local y global sobre el uso de la energía. Las emisiones seguirán creciendo si nos aferramos al patron histórico de nuestra dependencia en los combustibles fósiles. Pero éste no es nuestra única opción – ya contamos con el conocimeinto y la tecnología  necesaria para cambiar este patron, y reducir rápidamente las emisiones. Esto implica transformer los sitsemas de energía en los que dominen las fuentes renobables de energía, cambiar los sistemas alimenticios para que sean menos intensivos en carbono y reducir el desperdicio de agua, y modificar los sistemas e infraestructura de transporte para reducir el uso de energía. Si hicieramos todo esto, como conescuencia de reuducir las emisiones, se limitaría el daño y el sufrimiento que experimentarían nuestros niños debido al cambio climático. El reformar nuestras economías basadas en el uso de combustibles fósiles implica decisions difíciles de tomar en los ámbitos politico y sociales a escalas local y global. Este es un sueño alcanzable mientras todos contribuyamos a un futuro de bajo uso del carbono fósil. ¡Gracias por hacer todo lo que puedes! 
+</p>
+
+
+<p>
+La reducción del CO2 y otros gases invernadero son el foco de las actividades de la Convención sobre el Cambio Climático de las Naciones Unidas (<a href="https://unfccc.int/"> UNFCC</a> por sus siglas en inglés) con resultados significativos como el Acuerdo de París del 2015. Las actividades actuales se enfocan en la implementación de este plan. </p>
+
 
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
