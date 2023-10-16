@@ -140,12 +140,13 @@ published: true
 <p> La quema de combustibles fósiles arroja carbono a la atmósfera. Otras fuentes menores incluyen procesos industriales tales como la manufactura de cemento y la quema de gas natural en las industria petrolera y petroquímica. La mayor parte de las emisiones de carbono a la atmósfera proviene de la energía usada en el transporte humano, producción eléctrica, calefacción y el enfriamiento de edificios, y la la actividad industrial. El petróleo solía ser el combustible fósil de mayor uso, pero actualmente en 2021, el carbón mineral es el combustible dominante (41% el carbón mineral y 32% el petróleo), mientras que el uso de gas natural ha ido aumentando (22%). </p>
 
 <p>
-En los años noventa, el uso de combustibles fósiles emitió 6.4 Petagramos de carbono (PgC) al año, y en el periodo entre 2012-2021, aumentó a 9.6 PgC/año. Entre los años 2000-2009, la emisión aumentó un 2.4% cada año, sustancialmente más rápido que el crecimiento del 1.0% al año de los años noventa. Este cambio dramático se debe principalmente al aumento en el uso de combustibles fósiles por parte de países en desarrollo. La producción de exportaciones contribuye al este aumento de emisiones. La razón de crecimiento de las emisiones de carbono disminuyó a 1.6% entre el 2010 y 2019. 
+En los años noventa, el uso de combustibles fósiles emitió 6.4 Petagramos de carbono (PgC) al año, mientras que en los años entre 2012 y 2021, aumentó a 9.6 PgC/año. Entre los años 2000-2009, la emisión aumentó un 2.4% cada año, un porcentaje sustancialmente más alto que el crecimiento del 1.0% al año de los años noventa. Este cambio dramático se debe principalmente al aumento en el uso de combustibles fósiles por parte de países en desarrollo. La taza del crecimiento de las emisiones de carbono disminuyó a 0.7% entre el 2012 y 2021. Esta reducción en la taza de crecimiento de las emisiones es positiva en lo que al cambio climático se refiera, pero no es suficiente, ya que las emisiones de carbono siguen aumentando año con año. Alcanzar las metas internacionales de limitar el calentamiento global a menos de dos grados C require que revertamos la tendencia constante del aumento continuo de emisiones. Para salvaguardar al clima, las emisiones se deben de reducir cada año en lugar de aumentar.
 </p>
 
 
 <p> 
-Puedes encontrar información sobre las emisiones de carbono por parte de los diferentes países en los datos que el <a href="http://www.globalcarbonproject.org/carbonbudget/index.htm">Global Carbon Project (GCP)</a> aporta cada año. </p>
+Desde el año 2000, las emisiones han aumentado rapidamente en los paises en desarrollo, particularmente China. Este aumento se debe en gran medida al incremento en el consumo energético interno, pero también contribuye de forma significative la producción de bienes de consume que se han exportado hacia paises desarrollados. Las emisiones internas de todos los paises y las que se dan por los flujos de producción y consumo son estimanadas anualmente por <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project </a>.
+</p>
 
 <h3> El futuro de los combustibles fósiles </h3>
 
