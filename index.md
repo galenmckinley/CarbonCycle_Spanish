@@ -227,7 +227,7 @@ La incertidumbre en las estimaciones del uso de suelo se debe en gran parte a qu
 
 <h3> El futuro del Uso de la Tierra </h3>
 
-<p> El futuro de uso de suelo depende de mucho factores. Decisiones de la gente a escala local a global va cambiar los bosques, el suelo, tierra de cultivo, tierra Salvaje y centros urbanos. Un <a href="https://www.ipcc.ch/srccl/"> 2022 special IPCC report</a> da mas informacion sobre estes factores. </p>
+<p> El futuro de uso de suelo depende de mucho factores. Decisiones de la gente a escala local a global va cambiar los bosques, el suelo, tierra de cultivo, tierra salvaje y centros urbanos. Un <a href="https://www.ipcc.ch/srccl/"> 2022 special IPCC report</a> da mas informacion sobre estes factores. </p>
 
 
 <h3> ¿Cuál es la diferencia entre el Uso de la Tierra y Toma terrestre de Carbono? </h3>
