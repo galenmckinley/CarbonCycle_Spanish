@@ -174,14 +174,14 @@ La reducción del CO2 y otros gases invernadero son el foco de las actividades d
 
 <div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/CO2flux_ocean_20102019_M2023_fig2a.jpg" style="width:750px;height:452px;" /> </div> 
 
-<p style="font-size:75%; text-align:center"> <i> Annual mean air-sea CO2 flux, 2010-2019, based on observations (McKinley et al. 2023). Positive is from ocean to atmosphere, negative from atmosphere to ocean. </i> </p>
+<p style="font-size:75%; text-align:center"> <i> El flujo de carbono del oceano al atmosfera 2010-2019 desde datos (McKinley et al. 2023). Positivo al atmosfera. </i> </p>
 
 <p>
 El océano alberga una enorme comunidad de organismos que realizan la fotosíntesis ante la presencia de energía solar y de nutrientes, transformando el CO2 en materia orgánica. Aún cuando gran parte del CO2 removido biológicamente del agua marina es reconvertido en CO2 rápidamente por la cadena trófica en la superficie, una pequeña porción (< 1%) del material de deshecho se hunde a grandes profundidades enriqueciendo el abismo con carbono (panel izquirda inferior). Este proceso mueve el carbono de la superficie hacia grandes profundidades y almacena el carbono lejos de la atmósfera. </p> 
 
 <div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/CRE02558_McKinleyReiner_OCB2020.png" style="width:750px;height:452px;" /> </div> 
 
-<p style="font-size:75%; text-align:center"> <i> The ocean carbon cycle, surface to depth. On the left is the natural carbon cycle that includes biological production, ocean circulation and air-sea exchange. On the right is the anthropogenic carbon cycle that includes invasion of carbon into the surface ocean due to the growing atmospheric pCO2 (inset on top right), and the ocean circulation that mixes anthropogenic carbon to depth. The total carbon cycle,  is the sum of the natural and anthropogenic cycles. At center are the observed global-mean profiles of natural, anthropogenic and total carbon in the ocean. The air-sea flux presented in the global map above is for the total carbon cycle. Figure by Galen McKinley and Natalie Renier, with support from the OCB program. </i> </p>
+<p style="font-size:75%; text-align:center"> <i> El ciclo carbono del oceano.  Figura de Galen McKinley and Natalie Renier (WHOI) con apoyo del OCB program. </i> </p>
 
 <p>
 El flujo de carbono hacia el mar se incrementa conforme las actividades humanas aumentan la concentración de carbono en la atmósfera (panel derecha arriba).  El processos fiscos que gobierna este flujo es <a href="https://en.wikipedia.org/wiki/Henry%27s_law"> La ley de Henry </a>.  Debido a que los océanos tardan cerca de 1000 años en mezclarse, la mayor parte del carbono absorbido por el océano se encuentra cerca de la superficie, dentro el primer kilómetro del océano.  </p>
@@ -194,10 +194,9 @@ Si no fuera por los océanos, la concentración atmosférica de CO2 sería 90ppm
 <p> Los científicos pronostican que los océanos eventualmente absorberán cerca del 85% del CO2 antropogénico (emitido por actividades humanas), pero como le toma al océano alrededor de 1000 años para mezclarse completamente, este proceso de asimilación del CO2 le tomará entre cientos y miles de años. </p>
 
 <p> 
-Se espera que hasta el 2100 aumente la tabsroción del carbono por parte del mar porque el aumento de CO2 en la atmósfera acelerará el proceso de disolución del carbono en el mar. Sin embargo, debido a los procesos químicos tan especiales del carbono en agua marina, la habilidad del océano para absorber el carbono disminuye conforme aumenta la concentración del carbono. Procesos antropogénicos pueden llegar a frenar la circulación a gran escala del océano, lo que reduciría la eficiencia de la toma de carbono por parte del océano. Los modelos predictivos sugieren cambios significativos en escala regional en la remoción biológica de carbono hacia las profundidades del océano, pero un efecto neto pequeño en la toma de carbono a escala global. </p>
+En este siglo, tabsroción del carbono por parte del mar va aumentar en proportion a los emisions de CO2 porque CO2 en el atmosfera es la primara causa del tabsroción. Necesitamos mas investigaciones y datos para entender major como el tabsroción va cambiar debido al cambio climatico. 
+</p> 
 
-<p> 
-Resulta claro que el sumidero de carbono oceánico presenta gran variabilidad tanto en espacio como en tiempo. Por ejemplo, muchas líneas de evidencia muestran que el sumidero de carbono oceánico a escala global se debilitó en la década de los 90, y se fortaleció en la década del 2000.  [Fay y McKinley, 2013; DeVries et al. 2017; Landschutzer et al. 2015; Ritter et al. 2017]. Aún cuando es claro que la circulación oceánica es la principal responsable de este cambio, la comprensión detallada de estos procesos se ve limitada por la escasez de observaciones oceánicas [Peters et al, 2017].</p>
 
 <p>
 En los Estados Unidos, el programa <a href="https://www.us-ocb.org/">Ocean Carbon and Biogeochemistry</a> (OCB) coordina los esfuerzos de investigación sobre la toma de carbono por los océanos. Puedes ver <a href="https://www.us-ocb.org/new-ocb-short-film/">un vídeo corto </a> que resume el trabajo de esta organización en la thema de carbono. El proyecto <a href="http://www.ioccp.org/"> International Ocean Carbon Coordinating Project </a> (IOCCP) es le encargado de coordinar esfuerzos a nivel internacional. </p>
@@ -223,11 +222,12 @@ En los Estados Unidos, el programa <a href="https://www.us-ocb.org/">Ocean Carbo
 <p> Las tierras nuevas de cultivo típicamente se obtienen clareando los bosques. Carbono es emitido a la atmósfera cuando los árboles se talan y se queman, o se abandonan a la descomposición. En el presente, la deforestación y la resultante emisión de carbono a la atmósfera está ocurriendo en las zonas tropicales. Sin embargo, en los últimos 200 años, la formación de zonas agrícolas mediante tala de bosques que ocurrió en las latitudes medias del Hemisferio Norte fue una fuente importante de carbono en la atmósfera. Desde mediados de los años noventa, gran parte de las tierras poco productivas de Estados Unidos y Europa se han reconvertido en bosques, compensando en parte las emisiones al tomar el carbono de las atmósfera y acumularlo en la madera y el suelo. </p>
 
 <p>
+<p> Agricultura y uso del suelo hizo 13% de los emisiones de CO2 en 2007-2016 (IPCC 2022), y 11% en 2012-2021 (Friedlingstein et al. 2022). Agricultura y uso del suelo hizo tambien es fuente importante de otros invernadero (CH4, N20). 
 La incertidumbre en las estimaciones del uso de suelo se debe en gran parte a que las estimaciones de la deforestación son, a su vez, inciertas, y también a que la cantidad de carbono almacenado en los bosques no está bien cuantificado (Crisp et al. 2022). </p>
 
 <h3> El futuro del Uso de la Tierra </h3>
 
-<p> Se utilizaron una gran variedad de modelos numéricos para predecir las emisiones de carbono a la atmósfera por el uso de suelo en el reporte IPCC AR4  (<a href="http://www.ipcc.ch/ipccreports/sres/emission/index.php?idp=6-6"> Reporte Especial de los Escenarios de Emisiones del IPCC, Chapter 6, Figure 6-6b</a>). Estos modelos sugieren que la deforestación llegará a su cumbre en el 2025 para declinar gradualmente con el tiempo. Esta tendencia será determinada por las tasas de crecimiento poblacional y las mejoras en la productividad agrícola. Diferentes escenarios muestran que, eventualmente, el Uso de la Tierra, que actualmente es una fuente importante de CO2 de la atmósfera, se transformará en un sumidero debido al crecimiento de los bosques. </p>
+<p> El futuro de uso de suelo depende de mucho factores. Decisiones de la gente a escala local a global va cambiar los bosques, el suelo, tierra de cultivo, tierra Salvaje y centros urbanos. Un <a href="https://www.ipcc.ch/srccl/"> 2022 special IPCC report</a> da mas informacion sobre estes factores. </p>
 
 
 <h3> ¿Cuál es la diferencia entre el Uso de la Tierra y Toma terrestre de Carbono? </h3>
@@ -250,12 +250,6 @@ La incertidumbre en las estimaciones del uso de suelo se debe en gran parte a qu
 <p>
 Existe una gran variabilidad de un año a otro en la magnitud de la toma de carbono por parte de la biosfera terrestre ya que la temporada de crecimiento de las plantas es muy variable.  El crecimiento de las planta es variable porque éstas son muy sensibles a cambios climáticos de periodo corto, así como a incendios, sequías e inundaciones. Esto se puede ver en el registro histórico que se muestra en verde en <a href="{{ site.url }}/applet/">applet</a>. </p>
 
-<h3> ¿Por qué la biosfera terrestre absorbe CO2 atmosférico? </h3>
-
-<p> La toma neta de carbono por la biosfera terrestre se debe principalmente a la respuesta fisiológica o metabólica de las plantas al aumento en la concentración de CO2 en la atmósfera, o al calentamiento global. Las plantas son más eficientes en su crecimiento bajo estas nuevas circunstancias debido a: (1) El calentamiento puede estimular el crecimiento, lo que permite el crecimiento de árboles a mayores latitudes y alturas de lo que antes era posible. (2) En condiciones normales las plantas pierden agua por sus estomas cuando éstas se abren para tomar el CO2del aire. Cuando aumenta la concentración de CO2, las plantas abren menos sus estomas, lo que les permite ahorrar agua. (3) La actividad humana también está cambiando sustancialmente el ciclo global del nitrógeno, al aumentar la cantidad de nitrógeno disponible para la plantas. Lo más probable es que esto estimule un mayor crecimiento. (4) Pueden darse importantes sinergias entre el carbono, nitrógeno, y el calentamiento global en las plantas. </p>
-
-<p>
-Aún así, existe una gran incertidumbre en la toma de carbono de forma natural por parte de la biosfera terrestre. Hay varias razones para esta incertidumbre: los estudios que utilizan metodología y datos independientes  para cuantificar la toma de CO2 por las plantas no logran ponerse de acuerdo; resulta difícil extrapolar de estudios en pequeña escala porque se han observado heterogeneidades en bosques, estepas y zonas agrícolas; las cuantificaciones del transporte horizontal en los lagos y ríos hacia las zonas costeras son muy pobres [Raymond et al. 2013, Benway et al. 2016, Golub et al. 2017], y tampoco se tienen buenos resultados mediante esfuerzos globales de medición ya que no hay suficientes datos y existe mucha incertidumbre en el transporte atmosférico que conecta y mezcla los flujos terrestres en su camino a las estaciones de medición [Gurney et al. 2013]. </p>
 
 <h3> El futuro de la Absorción Terrestre del Carbono </h3>
 
