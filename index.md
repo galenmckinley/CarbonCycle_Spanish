@@ -266,6 +266,3 @@ Es muy importante que logremos entender estos mecanismos de Absorción Terrestre
 
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
-
-
-</div>
