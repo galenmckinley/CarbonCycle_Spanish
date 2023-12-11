@@ -222,7 +222,7 @@ En los Estados Unidos, el programa <a href="https://www.us-ocb.org/">Ocean Carbo
 <p> Las tierras nuevas de cultivo típicamente se obtienen clareando los bosques. Carbono es emitido a la atmósfera cuando los árboles se talan y se queman, o se abandonan a la descomposición. En el presente, la deforestación y la resultante emisión de carbono a la atmósfera está ocurriendo en las zonas tropicales. Sin embargo, en los últimos 200 años, la formación de zonas agrícolas mediante tala de bosques que ocurrió en las latitudes medias del Hemisferio Norte fue una fuente importante de carbono en la atmósfera. Desde mediados de los años noventa, gran parte de las tierras poco productivas de Estados Unidos y Europa se han reconvertido en bosques, compensando en parte las emisiones al tomar el carbono de las atmósfera y acumularlo en la madera y el suelo. </p>
 
 <p>
-<p> Agricultura y uso del suelo hizo 13% de los emisiones de CO2 en 2007-2016 (IPCC 2022), y 11% en 2012-2021 (Friedlingstein et al. 2022). Agricultura y uso del suelo hizo tambien es fuente importante de otros invernadero (CH4, N20). 
+<p> Agricultura y uso del suelo hizo 13% de los emisiones de CO2 en 2007-2016 (IPCC 2022), y 12% en 2013-2022 (Friedlingstein et al. 2023). Agricultura y uso del suelo hizo tambien es fuente importante de otros invernadero (CH4, N20). 
 La incertidumbre en las estimaciones del uso de suelo se debe en gran parte a que las estimaciones de la deforestación son, a su vez, inciertas, y también a que la cantidad de carbono almacenado en los bosques no está bien cuantificado (Crisp et al. 2022). </p>
 
 <h3> El futuro del Uso de la Tierra </h3>
