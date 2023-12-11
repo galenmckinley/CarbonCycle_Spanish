@@ -56,7 +56,7 @@ published: true
 <h3> La humanidad agrega  CO2 a la atmósfera, la naturaleza elimina cerca de la mitad </h3>
 
 <ul>
-<li> De 2012 a 2021, la humanidad agregó a la atmósfera en promedio 10.8 petagram de carbono (1 petagram carbon = 1 PgC = 10^15) cada año, debido, principalmente, al consumo de combustibles fósiles (9.6 PgC/yr) y all cambio en el uso del suelo (1.2 PgC/yr). Los oceanos absorbieron el 27% de este carbono, y los sistemas terrestres el 29%. Un 3% de las emisiones representan sumideros que no han sido identificados (Friedlingstein et al. 2022). En la atmósfera tan sólo quedó el 45% de las emisiones humanas. Este 45% es el que contribuye al cambio climático.
+<li> De 2013 a 2022, la humanidad agregó a la atmósfera en promedio 10.9 petagram de carbono (1 petagram carbon = 1 PgC = 10^15) cada año, debido, principalmente, al consumo de combustibles fósiles (9.6 PgC/yr) y all cambio en el uso del suelo (1.3 PgC/yr). Los oceanos absorbieron el 26% de este carbono, y los sistemas terrestres el 30%. Un 4% de las emisiones representan sumideros que no han sido identificados (Friedlingstein et al. 2023). En la atmósfera tan sólo quedó el 45% de las emisiones humanas. Este 48% es el que contribuye al cambio climático.
 </li>
 
 <li> El calentamiento global futuro dependerá de las fuentes de CO2 por las emisiones humanas, así como de los sumideros naturales de carbono en ococeanos y la biosfera terrestre (Crisp et al. 2022).
@@ -90,12 +90,12 @@ published: true
 
 <p> El ciclo del carbono es un sistema complejo que involucra procesos geológicos, químicos y físicos. Aquí se muestra un esquema del reporte 2022 Global Carbon Budget (Friedlingstein et al. 2022). El esquema muestra los reservorios de carbono en las unidades de giga toneladas, GtC (1 GtC = 1 PgC: Petagramos de carbón) y los mayores flujos en GtC/yr. Los números que se muestran representan las mejores estimaciones para la década de 2012-2021. </p>
 
-<p> Las estimaciones de estos flujos son actualizadas anualmente por el proyecto <a href = "http://www.globalcarbonproject.org/carbonbudget/index.htm"> Global Carbon Project</a> (Friedlingstein et al. 2022), mientras que la ciencia sobre el ciclo del carbono es revisada en cada reporte del IPCC (Canadell, Monteiro et. al 2021). </p>
+<p> Las estimaciones de estos flujos son actualizadas anualmente por el proyecto <a href = "https://globalcarbonbudget.org"> Global Carbon Project</a> (Friedlingstein et al. 2023), mientras que la ciencia sobre el ciclo del carbono es revisada en cada reporte del IPCC (Canadell, Monteiro et. al 2021). </p>
 
 
-<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/GCBFig2_2022.png" style="width:750px;height:452px;" /> </div> 
+<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/GCBFig2_2023.png" style="width:750px;height:452px;" /> </div> 
 
-<p style="font-size:75%;"> <i> El ciclo global del carbón para 2012-2021, en el que se muestran los principales flujos anuales en GtC/yr (Friedlingstein et al. 2022). </i> </p>
+<p style="font-size:75%;"> <i> El ciclo global del carbón para 2013-2022, en el que se muestran los principales flujos anuales en GtC/yr (Friedlingstein et al. 2023). </i> </p>
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
 
@@ -137,10 +137,10 @@ published: true
 
 <h3> The Basics </h3> 
 
-<p> La quema de combustibles fósiles arroja carbono a la atmósfera. Otras fuentes menores incluyen procesos industriales tales como la manufactura de cemento y la quema de gas natural en las industria petrolera y petroquímica. La mayor parte de las emisiones de carbono a la atmósfera proviene de la energía usada en el transporte humano, producción eléctrica, calefacción y el enfriamiento de edificios, y la la actividad industrial. El petróleo solía ser el combustible fósil de mayor uso, pero actualmente en 2021, el carbón mineral es el combustible dominante (41% el carbón mineral y 32% el petróleo), mientras que el uso de gas natural ha ido aumentando (22%). </p>
+<p> La quema de combustibles fósiles arroja carbono a la atmósfera. Otras fuentes menores incluyen procesos industriales tales como la manufactura de cemento y la quema de gas natural en las industria petrolera y petroquímica. La mayor parte de las emisiones de carbono a la atmósfera proviene de la energía usada en el transporte humano, producción eléctrica, calefacción y el enfriamiento de edificios, y la la actividad industrial. El petróleo solía ser el combustible fósil de mayor uso, pero en las ultimas decadas, el carbón mineral es el combustible dominante, mientras que el uso de gas natural ha ido aumentando. </p>
 
 <p>
-En los años noventa, el uso de combustibles fósiles emitió 6.4 Petagramos de carbono (PgC) al año, mientras que en los años entre 2012 y 2021, aumentó a 9.6 PgC/año. Entre los años 2000-2009, la emisión aumentó un 2.4% cada año, un porcentaje sustancialmente más alto que el crecimiento del 1.0% al año de los años noventa. Este cambio dramático se debe principalmente al aumento en el uso de combustibles fósiles por parte de países en desarrollo. La taza del crecimiento de las emisiones de carbono disminuyó a 0.7% entre el 2012 y 2021. Esta reducción en la taza de crecimiento de las emisiones es positiva en lo que al cambio climático se refiera, pero no es suficiente, ya que las emisiones de carbono siguen aumentando año con año. Alcanzar las metas internacionales de limitar el calentamiento global a menos de dos grados C require que revertamos la tendencia constante del aumento continuo de emisiones. Para salvaguardar al clima, las emisiones se deben de reducir cada año en lugar de aumentar.
+En los años noventa, el uso de combustibles fósiles emitió 6.4 Petagramos de carbono (PgC) al año, mientras que en los años entre 2013 y 2023, aumentó a 9.6 PgC/año. Entre los años 2000-2009, la emisión aumentó un 2.8% cada año, un porcentaje sustancialmente más alto que el crecimiento del 1.0% al año de los años noventa. Este cambio dramático se debe principalmente al aumento en el uso de combustibles fósiles por parte de países en desarrollo. La taza del crecimiento de las emisiones de carbono disminuyó a 0.5% entre el 2013 y 2022. Esta reducción en la taza de crecimiento de las emisiones es positiva en lo que al cambio climático se refiera, pero no es suficiente, ya que las emisiones de carbono siguen aumentando año con año. Alcanzar las metas internacionales de limitar el calentamiento global a menos de dos grados C require que revertamos la tendencia constante del aumento continuo de emisiones. Para salvaguardar al clima, las emisiones se deben de reducir cada año en lugar de aumentar.
 </p>
 
 
@@ -187,7 +187,7 @@ El océano alberga una enorme comunidad de organismos que realizan la fotosínte
 El flujo de carbono hacia el mar se incrementa conforme las actividades humanas aumentan la concentración de carbono en la atmósfera (panel derecha arriba).  El processos fiscos que gobierna este flujo es <a href="https://en.wikipedia.org/wiki/Henry%27s_law"> La ley de Henry </a>.  Debido a que los océanos tardan cerca de 1000 años en mezclarse, la mayor parte del carbono absorbido por el océano se encuentra cerca de la superficie, dentro el primer kilómetro del océano.  </p>
 
 <p>
-Si no fuera por los océanos, la concentración atmosférica de CO2 sería 90ppm más elevada que la concentración actual (175 PgC). Los océanos han absorbido el 37% de todo el carbono que se ha emitido a la atmósfer debido al consumo de combustibles fósiles (465 PgC). Puede encotrar animaciones sobre los cambios en el tiempo del balance entre las fuentes y sumideros de carbono por el tiempo <a href="http://darchive.mblwhoilibrary.org/handle/1912/7670.1"> Ocean Carbon and Biogeochemistry Program. </a> </p>
+Si no fuera por los océanos, la concentración atmosférica de CO2 sería 90ppm más elevada que la concentración actual (179 PgC). Los océanos han absorbido el 37% de todo el carbono que se ha emitido a la atmósfer debido al consumo de combustibles fósiles (483 PgC). </p>
 
 <h3> El futuro de la absorción oceánica del carbono </h3>
 

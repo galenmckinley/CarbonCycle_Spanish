@@ -12,9 +12,9 @@ Canadell, J. G., Monteiro, P. M. S., Costa, M. H., Cunha, L. C. da, Cox, P. M., 
 
 Crisp, D., Dolman, H., Tanhua, T., McKinley, G. A., Hauck, J., Bastos, A., et al. (2022). How Well Do We Understand the Land-Ocean-Atmosphere Carbon Cycle? Reviews of Geophysics, 60(2). [https://doi.org/10.1029/2021rg000736](https://doi.org/10.1029/2021rg000736)
 
-Friedlingstein, P., O’Sullivan, M., Jones, M. W., Andrew, R. M., Gregor, L., Hauck, J., et al. (2022). Global Carbon Budget 2022. Earth System Science Data, 14(11), 4811–4900. [https://doi.org/10.5194/essd-14-4811-2022](https://doi.org/10.5194/essd-14-4811-2022)
+Friedlingstein, P., M. O'Sullivan, M.W. Jones, R.M. Andrew, D. C. E. Bakker, ... G.A. McKinley... et al. (2023) Global Carbon Budget 2023, Earth Sys. Sci. Data  [doi:10.5194/essd-15-5301-2023](https://essd.copernicus.org/articles/15/5301/2023/)
 
-[Global Carbon Budget Papers, Graphics and Data](http://www.globalcarbonproject.org/carbonbudget/) from the Global Carbon Project
+[Global Carbon Budget Papers, Graphics and Data](https://globalcarbonbudget.org) 
 
 #### Atmosphere
 
