@@ -187,7 +187,14 @@ El océano alberga una enorme comunidad de organismos que realizan la fotosínte
 El flujo de carbono hacia el mar se incrementa conforme las actividades humanas aumentan la concentración de carbono en la atmósfera (panel derecha arriba).  El processos fiscos que gobierna este flujo es <a href="https://en.wikipedia.org/wiki/Henry%27s_law"> La ley de Henry </a>.  Debido a que los océanos tardan cerca de 1000 años en mezclarse, la mayor parte del carbono absorbido por el océano se encuentra cerca de la superficie, dentro el primer kilómetro del océano.  </p>
 
 <p>
-Si no fuera por los océanos, la concentración atmosférica de CO2 sería 90ppm más elevada que la concentración actual (179 PgC). Los océanos han absorbido el 37% de todo el carbono que se ha emitido a la atmósfer debido al consumo de combustibles fósiles (483 PgC). </p>
+Si no fuera por los océanos, la concentración atmosférica de CO2 sería 90ppm más elevada que la concentración actual (179 PgC). Los océanos han absorbido el 37% de todo el carbono que se ha emitido a la atmósfer debido al consumo de combustibles fósiles (483 PgC) (Friedlingstein et al. 2023). </p>
+
+<center>
+<video width="720" height="540" controls> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2023.mp4" type="video/mp4"> </video> 
+</center>
+
+<p style="font-size:75%; text-align:center"> <i> Acumulativo
+presupuesto global de carbono, 1850-2022  (Friedlingstein et al. 2023). Animacion de Marit Jentoft-Nilsen, NASA. </i> </p>
 
 <h3> El futuro de la absorción oceánica del carbono </h3>
 
