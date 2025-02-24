@@ -93,7 +93,7 @@ published: true
 <p> Las estimaciones de estos flujos son actualizadas anualmente por el proyecto <a href = "https://globalcarbonbudget.org"> Global Carbon Project</a> (Friedlingstein et al. 2024), mientras que la ciencia sobre el ciclo del carbono es revisada en cada reporte del IPCC (Canadell, Monteiro et. al 2021). </p>
 
 
-<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/Fig2_GCB2024.pdf" style="width:750px;height:452px;" /> </div> 
+<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/Fig2_GCB2024.pdf" style="width:750px;height:600px;" /> </div> 
 
 <p style="font-size:75%;"> <i> El ciclo global del carbón para 2014-2023, en el que se muestran los principales flujos anuales en GtC/yr (Friedlingstein et al. 2024). </i> </p>
 
