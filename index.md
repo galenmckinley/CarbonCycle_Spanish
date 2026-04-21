@@ -2,11 +2,11 @@
 layout: home
 permalink: /
 image:
-  feature: productivity.jpg
+  feature: productivityskinny.jpg
   forest: mangrove.jpg
-  atmosphere: atmos.jpg
+  atmosphere: akegeraclouds23ATMonly.jpg
   fossilfuels: coalmine.jpg
-  ocean: perpetual.jpg
+  ocean: productivity.jpg
   land: landUse.jpg
   land2: oldGrowth.jpg
 published: true
@@ -53,10 +53,10 @@ published: true
 </ul>
 
 
-<h3> La humanidad agrega  CO2 a la atmósfera, la naturaleza elimina cerca de la mitad </h3>
+<h3> La humanidad agrega CO2 a la atmósfera, la naturaleza elimina cerca de la mitad </h3>
 
 <ul>
-<li> De 2014 a 2023, la humanidad agregó a la atmósfera en promedio 10.8 petagram de carbono (1 petagram carbon = 1 PgC = 10^15) cada año, debido, principalmente, al consumo de combustibles fósiles (9.7 PgC/yr) y all cambio en el uso del suelo (1.1 PgC/yr). Los oceanos absorbieron el 27% de este carbono, y los sistemas terrestres el 30%. Un 5% de las emisiones representan sumideros que no han sido identificados (Friedlingstein et al. 2024). En la atmósfera tan sólo quedó el 48% de las emisiones humanas. Este 48% es el que contribuye al cambio climático.
+<li> De 2015 a 2024, la humanidad agregó a la atmósfera 11.2 petagram de carbono (1 petagram carbon = 1 PgC = 10^15) cada año, debido, principalmente, al consumo de combustibles fósiles (9.8 PgC/yr) y all cambio en el uso del suelo (1.4 PgC/yr). Los oceanos absorbieron el 29% de este carbono, y los sistemas terrestres el 21%. Un 0% de las emisiones representan sumideros que no han sido identificados (Friedlingstein et al. 2026). En la atmósfera tan sólo quedó el 48% de las emisiones humanas. Este 50% es el que contribuye al cambio climático.
 </li>
 
 <li> El calentamiento global futuro dependerá de las fuentes de CO2 por las emisiones humanas, así como de los sumideros naturales de carbono en ococeanos y la biosfera terrestre (Crisp et al. 2022).
@@ -88,14 +88,14 @@ published: true
 
 <h3> El ciclo global del carbono</h3>
 
-<p> El ciclo del carbono es un sistema complejo que involucra procesos geológicos, químicos y físicos. Aquí se muestra un esquema del reporte 2024 Global Carbon Budget (Friedlingstein et al. 2024). El esquema muestra los reservorios de carbono en las unidades de giga toneladas, GtC (1 GtC = 1 PgC: Petagramos de carbón) y los mayores flujos en GtC/yr.  </p>
+<p> El ciclo del carbono es un sistema complejo que involucra procesos geológicos, químicos y físicos. Aquí se muestra un esquema del reporte 2024 Global Carbon Budget (Friedlingstein et al. 2026). El esquema muestra los reservorios de carbono en las unidades de giga toneladas, GtC (1 GtC = 1 PgC: Petagramos de carbón) y los mayores flujos en GtC/yr.  </p>
 
 <p> Las estimaciones de estos flujos son actualizadas anualmente por el proyecto <a href = "https://globalcarbonbudget.org"> Global Carbon Project</a> (Friedlingstein et al. 2024), mientras que la ciencia sobre el ciclo del carbono es revisada en cada reporte del IPCC (Canadell, Monteiro et. al 2021). </p>
 
 
-<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/Fig2_GCB2024.pdf" style="width:750px;height:600px;" /> </div> 
+<div style="text-align:center; padding-top: 1cm ; padding-bottom: .5cm"> <img src = "{{site.baseurl}}/images/GCBFig2_2025.png" style="width:750px;height:600px;" /> </div> 
 
-<p style="font-size:75%;"> <i> El ciclo global del carbón para 2014-2023, en el que se muestran los principales flujos anuales en GtC/yr (Friedlingstein et al. 2024). </i> </p>
+<p style="font-size:75%;"> <i> El ciclo global del carbón para 2015-2024, en el que se muestran los principales flujos anuales en GtC/yr (Friedlingstein et al. 2026). </i> </p>
 
 <h5> <a href="{{site.baseurl}}/references/" target = "blank"> <u> References </u> </a> </h5>
 
@@ -111,7 +111,7 @@ published: true
 
 </p>
  
-<div style="text-align:center"> <img src = "{{site.baseurl}}/images/co2_data_mlo_24Feb2025_NOAAESRL.pdf" /> </div> 
+<div style="text-align:center"> <img src = "{{site.baseurl}}/images/co2_trend_all_gl_21April2026.pdf" /> </div> 
 
 <p>
 
@@ -140,7 +140,7 @@ published: true
 <p> La quema de combustibles fósiles arroja carbono a la atmósfera. Otras fuentes menores incluyen procesos industriales tales como la manufactura de cemento y la quema de gas natural en las industria petrolera y petroquímica. La mayor parte de las emisiones de carbono a la atmósfera proviene de la energía usada en el transporte humano, producción eléctrica, calefacción y el enfriamiento de edificios, y la la actividad industrial. El petróleo solía ser el combustible fósil de mayor uso, pero en las ultimas decadas, el carbón mineral es el combustible dominante, mientras que el uso de gas natural ha ido aumentando. </p>
 
 <p>
-En los años noventa, el uso de combustibles fósiles emitió 6.4 Petagramos de carbono (PgC) al año, mientras que en los años entre 2014 y 2023, aumentó a 9.6 PgC/año. Entre los años 2000-2009, la emisión aumentó un 2.8% cada año, un porcentaje sustancialmente más alto que el crecimiento del 1.0% al año de los años noventa. Este cambio dramático se debe principalmente al aumento en el uso de combustibles fósiles por parte de países en desarrollo. La taza del crecimiento de las emisiones de carbono disminuyó a 0.6% entre el 2014 y 2023. Esta reducción en la taza de crecimiento de las emisiones es positiva en lo que al cambio climático se refiera, pero no es suficiente, ya que las emisiones de carbono siguen aumentando año con año. Alcanzar las metas internacionales de limitar el calentamiento global a menos de dos grados C require que revertamos la tendencia constante del aumento continuo de emisiones. Para salvaguardar al clima, las emisiones se deben de reducir cada año en lugar de aumentar.
+En los años noventa, el uso de combustibles fósiles emitió 6.4 Petagramos de carbono (PgC) al año, mientras que en los años entre 2015 y 2024, aumentó a 9.8 PgC/año. Entre los años 2000-2009, la emisión aumentó un 2.8% cada año, un porcentaje sustancialmente más alto que el crecimiento del 1.0% al año de los años noventa. Este cambio dramático se debe principalmente al aumento en el uso de combustibles fósiles por parte de países en desarrollo. La taza del crecimiento de las emisiones de carbono fue 1.1% entre en 2024. Esta reducción en la taza de crecimiento de las emisiones es positiva en lo que al cambio climático se refiera, pero no es suficiente, ya que las emisiones de carbono siguen aumentando año con año. Alcanzar las metas internacionales de limitar el calentamiento global a menos de dos grados C require que revertamos la tendencia constante del aumento continuo de emisiones. Para salvaguardar al clima, las emisiones se deben de reducir cada año en lugar de aumentar.
 </p>
 
 
@@ -187,21 +187,21 @@ El océano alberga una enorme comunidad de organismos que realizan la fotosínte
 El flujo de carbono hacia el mar se incrementa conforme las actividades humanas aumentan la concentración de carbono en la atmósfera (panel derecha arriba).  El processos fiscos que gobierna este flujo es <a href="https://en.wikipedia.org/wiki/Henry%27s_law"> La ley de Henry </a>.  Debido a que los océanos tardan cerca de 1000 años en mezclarse, la mayor parte del carbono absorbido por el océano se encuentra cerca de la superficie, dentro el primer kilómetro del océano.  </p>
 
 <p>
-Si no fuera por los océanos, la concentración atmosférica de CO2 sería 90ppm más elevada que la concentración actual (185 PgC). Los océanos han absorbido el 38% de todo el carbono que se ha emitido a la atmósfer debido al consumo de combustibles fósiles (490 PgC) (Friedlingstein et al. 2024). </p>
+Si no fuera por los océanos, la concentración atmosférica de CO2 sería 90ppm más elevada que la concentración actual (200 PgC). Los océanos han absorbido el 40% de todo el carbono que se ha emitido a la atmósfer debido al consumo de combustibles fósiles (495 PgC) (Friedlingstein et al. 2026). </p>
 
 <center>
-<video width="720" height="540" controls> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2024.mp4" type="video/mp4"> </video> 
+<video width="720" height="540" controls> <source src = "{{site.baseurl}}/images/historical_carbon_budget_bar_chart_2025.mp4" type="video/mp4"> </video> 
 </center>
 
 <p style="font-size:75%; text-align:center"> <i> Acumulativo
-presupuesto global de carbono, 1850-2023  (Friedlingstein et al. 2024). Animacion de Marit Jentoft-Nilsen, NASA. </i> </p>
+presupuesto global de carbono, 1850-2024  (Friedlingstein et al. 2026). Animacion de Marit Jentoft-Nilsen, NASA. </i> </p>
 
 <h3> El futuro de la absorción oceánica del carbono </h3>
 
 <p> Los científicos pronostican que los océanos eventualmente absorberán cerca del 85% del CO2 antropogénico (emitido por actividades humanas), pero como le toma al océano alrededor de 1000 años para mezclarse completamente, este proceso de asimilación del CO2 le tomará entre cientos y miles de años. </p>
 
 <p> 
-En este siglo, tabsroción del carbono por parte del mar va aumentar en proportion a los emisions de CO2 porque CO2 en el atmosfera es la primara causa del tabsroción. Necesitamos mas investigaciones y datos para entender major como el tabsroción va cambiar debido al cambio climatico. 
+En este siglo, tabsroción del carbono por parte del mar va aumentar en proportion a los emisions de CO2 porque CO2 en el atmosfera es la primara causa del tabsroción. Necesitamos mas investigaciones y datos para entender major como el tabsroción va cambiar debido al cambio climatico. En un nuevo projecto <a href="https://sites.google.com/uw.edu/coco2"> Constraining Ocean Carbon with Optimized Observations (COCO2)</a>, con apoyo de Schmidt Sciences, vamos a tomar datos importantes in el Océano Austral.
 </p> 
 
 
@@ -229,7 +229,7 @@ En los Estados Unidos, el programa <a href="https://www.us-ocb.org/">Ocean Carbo
 <p> Las tierras nuevas de cultivo típicamente se obtienen clareando los bosques. Carbono es emitido a la atmósfera cuando los árboles se talan y se queman, o se abandonan a la descomposición. En el presente, la deforestación y la resultante emisión de carbono a la atmósfera está ocurriendo en las zonas tropicales. Sin embargo, en los últimos 200 años, la formación de zonas agrícolas mediante tala de bosques que ocurrió en las latitudes medias del Hemisferio Norte fue una fuente importante de carbono en la atmósfera. Desde mediados de los años noventa, gran parte de las tierras poco productivas de Estados Unidos y Europa se han reconvertido en bosques, compensando en parte las emisiones al tomar el carbono de las atmósfera y acumularlo en la madera y el suelo. </p>
 
 <p>
-<p> Agricultura y uso del suelo hizo 13% de los emisiones de CO2 en 2007-2016 (IPCC 2022), y 10% en 2014-2023 (Friedlingstein et al. 2024). Agricultura y uso del suelo hizo tambien es fuente importante de otros invernadero (CH4, N20). 
+<p> Agricultura y uso del suelo hizo 13% de los emisiones de CO2 en 2007-2016 (IPCC 2022), y 13% en 2015-2024 (Friedlingstein et al. 2026). Agricultura y uso del suelo hizo tambien es fuente importante de otros invernadero (CH4, N20). 
 La incertidumbre en las estimaciones del uso de suelo se debe en gran parte a que las estimaciones de la deforestación son, a su vez, inciertas, y también a que la cantidad de carbono almacenado en los bosques no está bien cuantificado (Crisp et al. 2022). </p>
 
 <h3> El futuro del Uso de la Tierra </h3>
