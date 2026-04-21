@@ -31,7 +31,7 @@ Gruber, N., Clement, D., Carter, B. R., Feely, R. A., Heuven, S. V., Hoppema, M.
 
 Gruber, N., Bakker, D. C. E., DeVries, T., Gregor, L., Hauck, J., Landschützer, P., et al. (2023). Trends and variability in the ocean carbon sink. Nature Reviews Earth & Environment, 1–16. [https://doi.org/10.1038/s43017-022-00381-x](https://doi.org/10.1038/s43017-022-00381-x)
 
-Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay, L. Gloege (2023) Assessing improvements in global ocean pCO2 machine learning reconstructions with Southern Ocean autonomous sampling, Biogeosciences, submitted.
+Heimdal, T.H., G.A. McKinley, A.J. Sutton, A.R. Fay and L. Gloege (2024) Assessing improvements in global ocean pCO2 machine learning reconstructions with Southern Ocean autonomous sampling, Biogeosciences [doi:10.5194/bg-21-2159-2024](https://bg.copernicus.org/articles/21/2159/2024/)
 
 McKinley, G. A., Fay, A. R., Eddebbar, Y. A., Gloege, L., & Lovenduski, N. S. (2020). External Forcing Explains Recent Decadal Variability of the Ocean Carbon Sink. AGU Advances, 1(2), 1. [https://doi.org/10.1029/2019av000149](https://doi.org/10.1029/2019av000149)
 
